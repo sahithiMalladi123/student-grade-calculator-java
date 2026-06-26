@@ -57,7 +57,7 @@ git clone <repository-link>
 2.Navigate to the project directory.
 
 3.Compile the Java file:
-javac DecodeLabs_java_p2.java
+javac student_gradecalculator.java
 
 4.Run the program:
 java Calculator
